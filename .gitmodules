@@ -1,3 +1,6 @@
 [submodule "library"]
 	path = library
 	url = https://github.com/zhgqthomas/CommonLibrary.git
+[submodule "demo/AnalyseRxJava"]
+	path = demo/AnalyseRxJava
+	url = https://github.com/zhgqthomas/AnalyseRxJava.git
